@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/ahmed_alb0ishe" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=AhmedAlboishe&icon=6&color=6)](https://visitcount.itsvg.in)
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,discord,github,git,firebase,postman,powershell,stackoverflow,notion,windows,vscode,figma,androidstudio,sqlite)](https://skillicons.dev)
 
