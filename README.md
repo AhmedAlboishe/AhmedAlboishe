@@ -1,18 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
-
-  <img style="
-    /* height: 200px; */
-    /* background-color: lightblue; */
-    position: absolute;
-    /* top: 50%; */
-    left: 50%;
-    transform: translate(-50%, -50%);
-    /* max-width: 100%; */
-    display: inline-block;" alt="shadow" src="https://github.com/3shadow7/3shadow7/blob/main/L-SHADOW%20ICON%20V3.png" width="60hv" />
-</div>
-<h1 align="center">Hi 👋🏻, I'm Elias Ozzy</h1>
+<h1 align="center">Hi 👋🏻, I'm Ahmed</h1>
 <h4 align="center">A FullStack Web Developer from Libya</h4>
 
 ## 🌐 Socials:
