@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋🏻, I'm Ahmed</h1>
-<h4 align="center">A FullStack Web Developer from Libya</h4>
+<h4 align="center">A Mobile Application Developer & UI/UX Desinger</h4>
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmed-alboishe-38677427b/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087650242714&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmed_alb0ishe?igsh=YXgxYW01dGh4ZzRo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-alboishe-38677427b/?profileId=ACoAAERHWBYBntLK23NUCRKvx-Yt4DlnfN172y8) 
