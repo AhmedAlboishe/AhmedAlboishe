@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋🏻, I'm Ahmed</h1>
-<h4 align="center">A Mobile Application Developer & UI/UX Desinger</h4>
+<h4 align="center">A Mobile Application Developer & UI/UX Designer</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-alboishe" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/ahmed_alb0ishe" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
