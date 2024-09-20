@@ -6,6 +6,9 @@
 <a href="https://www.instagram.com/ahmed_alb0ishe" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 <br>
 
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,discord,github,git,firebase,postman,powershell,stackoverflow,notion,windows,vscode,figma,androidstudio,sqlite)](https://skillicons.dev)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087650242714&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmed_alb0ishe?igsh=YXgxYW01dGh4ZzRo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-alboishe-38677427b/?profileId=ACoAAERHWBYBntLK23NUCRKvx-Yt4DlnfN172y8) 
