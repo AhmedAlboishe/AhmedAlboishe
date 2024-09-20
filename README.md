@@ -11,13 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,discord,github,git,firebase,postman,powershell,stackoverflow,notion,windows,vscode,figma,androidstudio,sqlite)](https://skillicons.dev)
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmedAlboishe&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedAlboishe&theme=one_dark_pro&hide_border=false)<br/>
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlboishe&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AhmedAlboishe&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
