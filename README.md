@@ -1,6 +1,17 @@
-# 💫 About Me:
-I love creating new things ⚡
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
+
+  <img style="
+    /* height: 200px; */
+    /* background-color: lightblue; */
+    position: absolute;
+    /* top: 50%; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* max-width: 100%; */
+    display: inline-block;" alt="shadow" src="https://github.com/3shadow7/3shadow7/blob/main/L-SHADOW%20ICON%20V3.png" width="60hv" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087650242714&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmed_alb0ishe?igsh=YXgxYW01dGh4ZzRo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-alboishe-38677427b/?profileId=ACoAAERHWBYBntLK23NUCRKvx-Yt4DlnfN172y8) 
